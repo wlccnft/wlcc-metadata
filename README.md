@@ -1,2 +1,0 @@
-# wlcc-metadata
-wlcc-metadata
